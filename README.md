@@ -19,7 +19,7 @@ Sistema que centraliza dados de um servidor Minecraft (Paper) que eu mesmo admin
 | Projeto | O que é |
 |---|---|
 | [pluginPaper](https://github.com/ragaso62/pluginPaper) | Plugin para Paper (Minecraft) com itens e mecânicas customizadas, feito para aprender Java na prática |
-| StockControl | Sistema de controle de estoque em C# (COLOQUE_AQUI o link do repositório) |
+| [StockControl](https://github.com/ragaso62/StockControl.git) | Sistema de controle de estoque em C# |
 
 ## Tecnologias
 
